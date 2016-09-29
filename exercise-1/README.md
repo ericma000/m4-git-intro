@@ -11,5 +11,6 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 7. Push changes up to GitHub
 
 Breakfast: 
-  -peanut butter sandwich
+  -peanut butter pork sandwich
+  -water
   
